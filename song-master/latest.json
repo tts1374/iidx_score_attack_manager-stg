@@ -1,0 +1,15 @@
+{
+  "file_name": "song_master_2026-08-06.sqlite",
+  "schema_version": "33",
+  "generated_at": "2026-08-06T23:57:15.478595Z",
+  "sha256": "daf4891a526d664acc012ea50c8e747a3b433ff7b4b92bf84c35d1038a4c1f3e",
+  "byte_size": 6758400,
+  "source_hashes": {
+    "titletbl.js": "858154b75a42a6c7fb05b65544b916f60909d66387a9ef3aedd7c42cdd05c194",
+    "datatbl.js": "c65fc91eb7aebcf7af0356f0be77358c8e554c077e6b06f212d00d834e16474d",
+    "actbl.js": "372b81b8f5d5574af2fef5854a8c6784cb9174688d96b75ebfff0d9521494f51",
+    "manual_alias_ac_csv": "cedd5204ed06ce0291b818cb89106b7ecc0f072ad34c6281cea2cd7c67be01e4",
+    "manual_alias_inf_csv": "deea796322b0029481f32f303fc2912351f75ce00f067209f8adf65ba640e8f8",
+    "inf_pack_csv": "dc7e5c0fcb3ee41634ff51c6582d11a637d4125657d8352c8507ef117cca7062"
+  }
+}
